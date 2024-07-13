@@ -5,7 +5,7 @@ A React multi-step form hook with TypeScript support.
 ## Installation
 
 ```bash
-npm install my-react-multistep-form
+npm install react-multi-step-hook-form
 ```
 
 ## Usage
