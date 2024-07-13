@@ -12,7 +12,7 @@ npm install react-multi-step-hook-form
 ```
 import React from 'react';
 import { useForm, SubmitHandler } from 'react-hook-form';
-import { useMultistepForm, FormButtons, StepIndicator } from 'my-react-multistep-form';
+import { useMultistepForm, FormButtons, StepIndicator } from 'react-multi-step-hook-form';
 
 type FormData = {
   firstName: string;
